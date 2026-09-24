@@ -1,4 +1,4 @@
-# Student Result Systems
+# Student Result System
 
 A simple student result system developed using Python and Java.
 
